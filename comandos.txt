@@ -1,0 +1,55 @@
+119  code .
+  120  mkdir 20230605_Alejandragomez
+  121  mkdir 20230605_Alejandragomez
+  122  code.
+  123  git init
+  124  touch comandos.txt
+  125  touch main.js
+  126  touch index.html
+  127  git init
+  128  git branch -M main
+  129  git cheout main
+  130  git checkout main
+  131  git checkout -b
+  132  git ad remote
+  133  git config user.name alejandragomez
+  134  git configuser.email aleja.gomez3090@gmail.com
+  135  git configuser.email aleja.gomez3090@gmail.com git symbolic-ref HEAD refs/heads/main
+  136  git status
+  137  gitgit remote add origin https://github.com/GomezAlejandra/20230605_AlejandraGomez.git
+  138  git init
+  139  git remote add origin https://github.com/GomezAlejandra/20230605_AlejandraGomez.git;2git branch -M main
+  140  git add .
+  141  git status
+  142  git commit"Commit01deAlejandraGomez"
+  143  git commit -m "Commit01deAlejandraGomez"
+  144  git brach -a
+  145  git branch -a
+  146  git branch -m main
+  147  git push origin main
+  148  git checkout -b feature01
+  149  mkdadir hardware Software SeguridadInformatica
+  150  mkdir hardware Software SeguridadInformatica
+  151  cd hardware
+  152  touch resumen.txt
+  153  cd ..
+  154  cd software
+  155  touch resumen.txt
+  156  cd ..
+  157  cdseguridadInformatica
+  158  cd SeguridadInformatica
+  159  touch resumen.txt
+  160  cd..
+  161  cd ..
+  162  git status
+  163  git add.
+  164  git add .
+  165  git status
+  166  git commit -m "commit02dealejandragomez"
+  167  git push origin feature01
+  168  git checkout main
+  169  mv main.js resumenHardware.txt
+  170  mv index.html resumenSoftware.txt
+  171  cd resumenSoftware.txtHISTORY
+  172  history
+MacBook-Air-de-Alejandra:20230605_Alejandragomez alejandragomez$ 
